@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Action Film Genre",
+        "description": "One of the earliest film genres in existence, the action genre has close ties to classic strife and struggle narratives that you find across all manner of art and literature. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/06/09100915/John-Wick-Action-Genre-1.jpg",
+        "detail": "Some of the main sub-genres include:\n\n - War and Military Action\n\n - Spy and Espionage Action\n\n - Martial Arts Action\n\n - Western Shoot Em Up Action\n\n - Action Hybrid Genres\n\n"
+    },
+    {
+        "title": "The Comedy Film Genre",
+        "description": "A favorite genre of film audiences young and old, from the very beginning of cinema, the comedy genre has been a fun-loving, quite sophisticated, and innovative genre that is delighted viewers for decades. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/06/09103547/three-stooges-1.jpeg",
+        "detail": "Some of the main sub-genres include:\n\n - Slapstick Comedy\n\n - Screwball Comedy\n\n - Parody Comedy\n\n - Black Comedy\n\n"
+    },
+    {
+        "title": "The Horror Film Genre",
+        "description": "While perhaps considered one of the more recent film genres to come into existence, elements of horror have long been a bedrock of classic cinema. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/06/09105436/Halloween-Slasher-2-1.jpg",
+        "detail": "Some of the main sub-genres include:\n\n - Zombie Horror\n\n - Folk Horror\n\n - Body Horror\n\n - Found Footage Horror\n\n"
+    },
+    {
+        "title": "The Sci-Fi Film Genre",
+        "description": "One of the most experimental and thought-provoking of the classic genres, the science-fiction (popularized as “sci-fi”) film genre goes all the way back to the silent film era. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/06/09111334/sci-fi-genre-1.jpg",
+        "detail": "Some of the main sub-genres include:\n\n - Space Travel\n\n - Time Travel\n\n - Cerebral Science\n\n - Robot and Monster Films\n\n - Disaster and Alien Invasion\n\n"
+    },
+    {
+        "title": "The Western Film Genre",
+        "description": "The western could technically be considered a sub-genre of the action film genre, in large part due to its huge popularity and its own exploits. Really, the various sub-genres. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/03/13171200/John-Wayne-2.jpg",
+        "detail": "Some of the main sub-genres include:\n\n - Classic Western\n\n - The Revisionist and Anti-Western\n\n - Contemporary and Neo-Western\n\n - Fantasy and Space Western\n\n - Modern Western\n\n"
+    },
+    {
+        "title": "The Romance Film Genre",
+        "description": "Ah, what would the great cinema tradition be if it were not for the countless stories of love and courtship. Since the advent of the movie theater experience. cinema has long been a favored pastime. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/06/09114330/Titanic-Romance-Films-1.jpg",
+        "detail": "Some of the main sub-genres include:\n\n - Historical Romance\n\n - Romantic Drama\n\n - Romantic Comedy\n\n - Chick Flick\n\n - Paranormal Romance\n\n"
+    },
+    {
+        "title": "The Thriller Film Genre",
+        "description": "Once a stylized niche genre, the thriller film has gone so mainstream that it might be time to change the genre is name to Summer Blockbuster Event. The thriller is rise coincides with the rise of the spy and detective. ",
+        "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2020/03/20153301/James-Bond-Spy-Thriller-1.jpg",
+        "detail": "Some of the main sub-genres include:\n\n - Conspiracy Thriller\n\n - Crime Thriller\n\n - Legal Thriller\n\n - Spy Thriller\n\n - Supernatural Thriller\n\n"
+    }
+]
